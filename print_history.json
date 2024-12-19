@@ -1,0 +1,394 @@
+[
+  {
+    "timestamp": "2024-12-19T16:15:06.113551",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版/3 (1).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 1,
+    "success": false
+  },
+  {
+    "timestamp": "2024-12-19T17:47:41.386892",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 2
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 1,
+    "success": false
+  },
+  {
+    "timestamp": "2024-12-19T17:50:04.089269",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 2
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 1,
+    "success": false
+  },
+  {
+    "timestamp": "2024-12-19T17:52:38.490137",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 1,
+    "success": false
+  },
+  {
+    "timestamp": "2024-12-19T17:56:14.227509",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 1,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T17:56:50.289271",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 4,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:06:14.394815",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 2
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:06:44.535341",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 2
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:07:02.342868",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 2
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:07:13.310137",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 2
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Adobe PDF",
+    "total_pages": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:08:21.060598",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 4,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:08:43.543165",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Microsoft Print to PDF",
+    "total_pages": 4,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:09:06.008598",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 2
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Microsoft Print to PDF",
+    "total_pages": 3,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:22:30.125210",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 4,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:31:53.970430",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 4,
+    "success": false
+  },
+  {
+    "timestamp": "2024-12-19T18:32:02.499308",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 4,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:33:22.233693",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 4,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:33:31.415754",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Adobe PDF",
+    "total_pages": 4,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:36:19.965118",
+    "files": [
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/1 (2).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (1).jpg",
+        "copies": 1
+      },
+      {
+        "path": "X:/钦/2024.12.19/新版2/2 (2).jpg",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 4,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:38:18.949574",
+    "files": [
+      {
+        "path": "D:/A/Pictures/96b703f94aa471ca59fe5873907e6bef.png",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 1,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:39:13.165376",
+    "files": [
+      {
+        "path": "D:/A/Pictures/96b703f94aa471ca59fe5873907e6bef.png",
+        "copies": 1
+      }
+    ],
+    "printer": "Microsoft Print to PDF",
+    "total_pages": 1,
+    "success": true
+  },
+  {
+    "timestamp": "2024-12-19T18:39:53.485865",
+    "files": [
+      {
+        "path": "D:/A/Pictures/96b703f94aa471ca59fe5873907e6bef.png",
+        "copies": 1
+      }
+    ],
+    "printer": "Fiery PRO80 70-60C-KM PS3.01US",
+    "total_pages": 1,
+    "success": true
+  }
+]
